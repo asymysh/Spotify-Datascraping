@@ -32,6 +32,8 @@ For that, login on the web player(https://open.spotify.com/) and open your brows
 You'll find a cookie named sp_dc. Copy its value.
 
 
-### 2. Insert the cookie in a file named token 
+### 2. Using the cookie
+Paste the cookie in the file named as token (no extensions).
 
 ### 3. Run the script
+$ python WebAPI.py
